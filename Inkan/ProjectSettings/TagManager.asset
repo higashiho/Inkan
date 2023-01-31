@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - EXP
+  - wall
+  - PowerSkill
+  - SpeedSkill
+  - DefenseSkill
+  - MoveSpeedSkill
+  - PowerBullet
+  - SpeedBullet
+  - HeelSkill
+  - BigSkill
+  - PenetratingSkill
+  - BigBullet
+  - PenetratingBullet
+  - SpeedUpSkill
+  - Area
+  - MidBoss
+  - MidEXP
+  - SpeedEnemy
+  - PowerEnemy
+  - HeelArea
+  - SkillArea
+  - SkillEnemy
+  - PointArea
+  - HpSlider
+  - BonasEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Bullet
+  - Enemy
+  - EXP
+  - Skill
+  - PBulllet
+  - SEnemy
+  - PEnemy
+  - PointWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
