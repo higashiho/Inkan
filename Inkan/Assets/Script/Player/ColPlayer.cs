@@ -74,18 +74,21 @@ public class ColPlayer : MonoBehaviour
         if (col.gameObject.tag == "BigSkill")
         {
             player.IronBallSkill++;
+            Destroy(col.gameObject);
         }   
         
         // 貫通スキル取得時
         if (col.gameObject.tag == "PenetratingSkill")
         {
             player.PenetratingSkill++;
+            Destroy(col.gameObject);
         }
 
         // スピードアップスキル取得時
         if(col.gameObject.tag == "SpeedUpSkill")
         {
             player.SpeedUpSkill++;
+            Destroy(col.gameObject);
         }
 
         // ダメージ処理
